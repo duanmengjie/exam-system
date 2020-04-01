@@ -1,0 +1,17 @@
+{
+  "result": "00000000",
+  "msg": "操作成功",
+  "data": {
+    "content": [{
+      "userId": "612725199307250410",
+      "userName": "123213123213131313123xxl3223323",
+      "avatarUrl": "/images20190112/20190112192843.jpg",
+      "entranceCertificateNumber": "12345678123123",
+      "workTypeId": "7c2e5679-0e30-4e44-b083-b734f64b044f",
+      "workProjectId": "74a6135b-ae66-4cfc-b037-d669e59b1974"
+    }],
+    "total": 1,
+    "size": 10,
+    "number": 0
+  }
+}

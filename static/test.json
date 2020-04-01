@@ -1,0 +1,51 @@
+{
+  "result": "00000000",
+  "msg": "操作成功",
+  "data": {
+    "user": {
+      "userId": "612725199307250410",
+      "userName": "123213123213131313123xxl3223323",
+      "avatarUrl": "/images20190112/20190112192843.jpg",
+      "entranceCertificateNumber": "12345678123123",
+      "workTypeId": "畜牧一号",
+      "workProjectId": "项目一组"
+    },
+    "qlist": [{
+      "qid": "question-0fb29224-d348-48c4-a02e-5120508b6234",
+      "description": "java is what1 ?",
+      "photoUrlList": null,
+      "type": "1",
+      "oplist": [{
+        "key": "A",
+        "value": "hehe"
+      }, {
+        "key": "B",
+        "value": "haha"
+      }, {
+        "key": "C",
+        "value": "damon"
+      }, {
+        "key": "D",
+        "value": "no"
+      }]
+    }, {
+      "qid": "question-47a052fd-330f-4cca-b0ff-5de278c4b605",
+      "description": "java is what2 ?",
+      "photoUrlList": null,
+      "type": "1",
+      "oplist": [{
+        "key": "A",
+        "value": "hehe"
+      }, {
+        "key": "B",
+        "value": "haha"
+      }, {
+        "key": "C",
+        "value": "damon"
+      }, {
+        "key": "D",
+        "value": "no"
+      }]
+    }]
+  }
+}
